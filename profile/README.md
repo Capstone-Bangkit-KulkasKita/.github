@@ -5,7 +5,7 @@
 <br>
 
 <p align="justify">
-KulkasKita is an app designed to tackle food waste and simplify food storage management in our daily. It helps users avoid forgetting expiration dates and provides reminders for approaching dates. The app also includes an image detection feature to ensure food quality by detecting defects. By optimizing food storage and promoting responsible consumption, KulkasKita aims to reduce waste and maximize resource utilization.
+KulkasKita is an app designed to tackle food waste and simplify food storage management in our daily. It helps users avoid forgetting expiration dates and provides reminders for approaching dates. The app also include a feature for various food detection, allowing users to identify and categorize different types of food items.By optimizing food storage and promoting responsible consumption, KulkasKita aims to reduce waste and maximize resource utilization.
 </p>
 
 ## Our Team
