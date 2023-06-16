@@ -7,5 +7,5 @@
 <br>
 
 <p align="justify">
-KulkasKita is 
+<h2>Kulkaskita app is an application designed to monitor food storage with an additional feature of food ingredient classification.</h2>
  </p>
