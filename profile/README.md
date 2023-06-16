@@ -5,7 +5,7 @@
 <br>
 
 <p align="justify">
-KulkasKita is an application designed to monitor food storage with an additional feature of food ingredient classification. Indonesia is the world's third largest producer of food loss and food waste, estimated to reach 150-184 kg per capita per year (Bappenas, 2021). According to the research results of Waste4Change, one of the causes of food waste is poor storage management. A common issue encountered is that stored food items have gone bad due to forgetting about the expiration date of the food ingredients. This problem led us to ask, 'How can we avoid forgetting the expiration dates of stored food ingredients? Is there a way to simplify food resource storage management?' Eventually, our group came up with the idea of creating a food storage application that includes a reminder feature when food ingredients are approaching their expiration date. Additionally, we also added an image detection feature to simplify the process of inputting food ingredients to be stored and ensure food qualities by examining presence of defects.
+KulkasKita is an app designed to tackle food waste and simplify food storage management in Indonesia. It helps users avoid forgetting expiration dates and provides reminders for approaching dates. The app also includes an image detection feature to ensure food quality by detecting defects. By optimizing food storage and promoting responsible consumption, KulkasKita aims to reduce waste and maximize resource utilization.
 </p>
 
 ## Our Team
